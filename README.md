@@ -36,5 +36,6 @@ En caso de que el archivo ".LIS" no tenga el nombre "HL25023", habrá que cambia
 - Modularización de las funciones.
 - Añadir espacios extra cuando un día registra cinco o más datos de altura.
 - Mejorar la lógica y legibilidad.
+- Realizar pruebas empleando datos de distintas estaciones y años.
 - Mejorar los comentarios.
 - Añadir una interfaz gráfica.
